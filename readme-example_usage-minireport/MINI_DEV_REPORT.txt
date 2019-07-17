@@ -1,0 +1,7 @@
+Segurança:
+- Provavelmente será possível fazer uma ou outra verificação a mais do que as que já são feitas, mas não nos lembramos de mais nada neste momento. Como trabalho futuro seria interessante analisar a segurança que este programa providencia e melhorá-la ainda mais, caso haja necessidade para tal uma vez que é provável que não tenhamos contemplado um ou outro caso possível de ataque, pois é impossível saber ao certo. Ou seja, deve existir uma verificação mais formal do algoritmo.
+
+Não de segurança:
+- Mais refactorização de código;
+- Tentar evitar usar ficheiros temporários ao máximo;
+- ...

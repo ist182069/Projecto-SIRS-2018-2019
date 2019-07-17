@@ -1,0 +1,12 @@
+# uncomment any of this and install them by doing "pip install -r requirements.txt" if you are using a lower python version:
+
+# built-in python 2.7.15+ libs:
+# socket
+# ssl
+# os
+# errno
+# time
+# datetime
+# json
+# subprocess
+# threading
