@@ -1,4 +1,4 @@
-#Report
+# Report
 
 Nesta pasta encontrava-se o relatório do nosso projecto. No entanto por razões de privacidade, dado que as fotografias dos integrantes do grupo encontravam-se na capa do relatório, optamos por não disponibilizar o mesmo. No entanto partilhamos considerações futuras sobre a utilização deste programa e um exemplo de utilização nos ficheiros no formato ".txt".
 
