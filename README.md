@@ -11,7 +11,7 @@ Este projecto obteve uma classificação de 20 valores. Sendo uma das duas únic
 
 A concepção do Remote Document Access foi devida ao trabalho destes dois membros do grupo:
 
-- 82014 - João Meira (MEIC-T) - Classificação Final Obtida na cadeira: (18)
-- 82069 - José Brás  (MEIC-T) - Classificação FInal Obtida na cadeira: (17)
+- 82014 - João Meira (MEIC-T) - Classificação Final Obtida na cadeira: (18) @ https://github.com/meiraxx
+- 82069 - José Brás  (MEIC-T) - Classificação FInal Obtida na cadeira: (17) @ https://github.com/ist182069
 
 É com muito gosto que partilhamos este projecto de forma livre através deste repositório público para que possam retirar ideias e ajudar os inscritos na cadeira de SIRS em semestres futuros na realização dos seus respectivos projectos.
