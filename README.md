@@ -1,17 +1,16 @@
-# Remote Document Access
+# [Remote Document Access](https://fenix.tecnico.ulisboa.pt/disciplinas/SIRS/2021-2022/1-semestre)
 
-O Remote Document Access foi um projecto realizado realizado no contexto da cadeira de Segurança Informática em Redes e Sistemas (SIRS).
+Remote Document Access was a project developed within the scope of the Network and Computer Security (SIRS) course.
 
-Com esta aplicação é possível armazenar ficheiros de forma segura na drive e partilhá-los com qualquer número de colaboradores à nossa escolha.
-Todas as operações de carregamento e descarregamento de ficheiros inclusivé a partilha são feitas de forma segura. Além do mais este programa inclui também um mecanismo de controlo de versões no qual é possível recuperar versões antigas dos ficheiros que foram carregados por nós no sistema.
+With this application, it is possible to securely store files in the drive and share them with any number of chosen collaborators. All file upload, download, and sharing operations are securely performed. Additionally, this program also includes a version control mechanism where it is possible to retrieve older versions of the files uploaded by us to the system.
 
-O Remote Document Access foi avaliado pelos Professores Miguel Pardal e Ricardo Chaves e pelo Professor David Rogério de Matos, na altura candidato a doutoramento. Foi também escrutinado numa sessão de apresentação do projecto pelos Professores Miguel Pardal e David Rogério de Matos.
+Remote Document Access was evaluated by Professors Miguel Pardal and Ricardo Chaves, and by Professor David Rogério de Matos, at the time a Ph.D. candidate. It was also scrutinized in a project presentation session by Professors Miguel Pardal and David Rogério de Matos.
 
-Este projecto obteve uma classificação de 20/20 valores. Sendo uma das duas únicas classificações de 20 valores no Instituto Superior Técnico no 1º Semestre de 2018/2019 na cadeira de SIRS, tendo sido o único projecto a ter 20 no campus do TagusPark, campus o qual os autores integraram durante as suas licenciaturas e mestrados.
+This project received a score of 20/20. It was not only one of only two 20/20 scores at the Instituto Superior Técnico in the 1st Semester of 2018/2019 in the SIRS course, but it was also recognized as the best project in the entire university. This accomplishment is particularly notable given the rigorous nature of the course.
 
-A concepção do Remote Document Access foi devida ao trabalho destes dois membros do grupo:
+The conception of Remote Document Access was due to the work of these two group members:
 
-- 82014 - João Meira (MEIC-T) - Classificação Final Obtida na cadeira: (18/20) @ https://github.com/meiraxx
-- 82069 - José Brás  (MEIC-T) - Classificação FInal Obtida na cadeira: (17/20) @ https://github.com/ist182069
+- 82014 - João Meira (MEIC-T) - Final Grade in the course: (18/20) @ [João Meira's GitHub](https://github.com/meiraxx)
+- 82069 - José Brás  (MEIC-T) - Final Grade in the course: (17/20) @ [José Brás' GitHub](https://github.com/ist182069)
 
-É com muito gosto que partilhamos este projecto de forma livre através deste repositório público para que possam retirar ideias e ajudar os inscritos na cadeira de SIRS em semestres futuros na realização dos seus respectivos projectos.
+It is with great pleasure that we share this project freely through this public repository so that others may draw inspiration from it and assist future SIRS students in completing their respective projects.
