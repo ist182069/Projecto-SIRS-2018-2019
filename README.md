@@ -1,4 +1,4 @@
-# [Remote Document Access](https://fenix.tecnico.ulisboa.pt/disciplinas/SIRS/2021-2022/1-semestre)
+# [Network and Computer Security](https://fenix.tecnico.ulisboa.pt/disciplinas/SIRS/2021-2022/1-semestre)
 
 Remote Document Access was a project developed within the scope of the Network and Computer Security (SIRS) course.
 
